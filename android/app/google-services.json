@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446736864772",
+    "project_id": "ddcare-ddc",
+    "storage_bucket": "ddcare-ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446736864772:android:a2315231ba8500646cc751",
+        "android_client_info": {
+          "package_name": "com.example.ddcare_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446736864772-s3ihsa0mc422ah34i65c1d8sa0e844dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ddcare_flutter_app",
+            "certificate_hash": "0f9dda2bf83a2add9953a9aa711a6e8ac0cf2e71"
+          }
+        },
+        {
+          "client_id": "446736864772-n7418nlc43qtdood2u1u080ttjh14dab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2L3is_0480q1ugY3BZrxmg7BkMal0ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446736864772-n7418nlc43qtdood2u1u080ttjh14dab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
